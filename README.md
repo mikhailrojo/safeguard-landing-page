@@ -1,8 +1,1 @@
-# SafeGuard Landing Page
-
-A responsive landing page for a condom brand, built with Tailwind CSS.
-
-## Features
-- Responsive design
-- Tailwind CSS styling
-- Placeholder images for product showcase
+IyBTYWZlR3VhcmQgTGFuZGluZyBQYWdlCgpBIHJlc3BvbnNpdmUgbGFuZGluZyBwYWdlIGZvciBhIGNvbmRvbSBicmFuZCwgYnVpbHQgd2l0aCBUYWlsd2luZCBDU1MuCgojIyBGZWF0dXJlcwotIFJlc3BvbnNpdmUgZGVzaWduCi0gVGFpbHdpbmQgQ1NTIHN0eWxpbmcKLSBQbGFjZWhvbGRlciBpbWFnZXMgZm9yIHByb2R1Y3Qgc2hvd2Nhc2U=
